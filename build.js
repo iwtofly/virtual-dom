@@ -1,0 +1,1 @@
+window.virtualDOM = require('./index.js');
